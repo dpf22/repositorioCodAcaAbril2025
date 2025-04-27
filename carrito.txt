@@ -1,0 +1,23 @@
+1. Inicializar un carrito vacío.
+
+2. Agregar productos:
+   - Cada vez que un usuario agrega un producto, se guarda:
+     - Nombre del producto
+     - Precio
+     - Cantidad
+   - Si el producto ya existe en el carrito, solo se aumenta la cantidad.
+
+3. Eliminar productos:
+   - El usuario puede eliminar un producto específico del carrito.
+
+4. Actualizar cantidad:
+   - El usuario puede aumentar o disminuir la cantidad de un producto.
+
+5. Calcular el total:
+   - Sumar el precio de todos los productos multiplicado por sus cantidades.
+
+6. Vaciar carrito:
+   - El usuario puede eliminar todos los productos del carrito de una vez.
+
+7. Confirmar compra:
+   - Una vez confirmado, se guarda la información para generar la orden de compra.
