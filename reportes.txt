@@ -1,0 +1,22 @@
+ANALISIS DE VENTAS
+1. Ventas por día/semana/mes
+2. Ventas por producto o categoría
+
+ANALISIS DE CLIENTES
+1. Clientes nuevos vs. recurrentes
+2. Segmentación por ubicación, género, edad (si está disponible)
+3. Valor de vida del cliente (CLV)
+4. Frecuencia de compra
+
+ANALISIS DE PAGOS Y METODOS DE PAGO
+1. Distribución de métodos de pago usados (tarjeta, PayPal, etc.)
+2. Tasa de fallos de pago
+3. Pagos rechazados vs. exitosos
+4. Tiempo promedio para completar una compra
+
+REPORTES FINANCIEROS
+1. Ingresos y costos
+2. Ganancia neta
+3. Impuestos recaudados
+4. Flujo de caja
+5. Devoluciones y reembolsos

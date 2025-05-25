@@ -1,0 +1,14 @@
+1. Gestión de productos
+Crear, editar y eliminar productos.
+Asignar códigos únicos (SKU, código de barras).
+Categorías o tipos de productos.
+Descripciones, imágenes, marcas y unidades de medida.
+2. Control de stock
+Registro de cantidades disponibles.
+Alertas de stock mínimo o bajo.
+Movimientos de inventario (entradas, salidas, ajustes).
+Historial de cambios por producto.
+3. Entradas y salidas
+Registrar ingresos de productos (por compras, devoluciones, etc.).
+Registrar salidas (por ventas, mermas, transferencias).
+Notas o comprobantes asociados.
